@@ -18,7 +18,7 @@ git clone https://github.com/k1tayama/electronics-analysis
 
 Перейти в папку проекта:
 
-cd project-name (ука)
+cd project-name 
 
 Установить зависимости:
 
